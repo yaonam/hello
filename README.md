@@ -10,8 +10,10 @@ Install:
  - PocketSphinx
 
  Update Path Variable to include:
-  - swig (folder in repo)
+ - swig (folder in repo)
 
 Install PocketSphinx:
  - clone repo 'git clone --recursive --depth 1 https://github.com/cmusphinx/pocketsphinx-python'
  - in repo folder 'python setup.py install'
+or....
+ - 'pipwin install pocketsphinx'

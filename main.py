@@ -1,4 +1,6 @@
 import speech_recognition as sr
+import sphinxbase
+import pocketsphinx
 
 # obtain audio from the microphone
 r = sr.Recognizer()
