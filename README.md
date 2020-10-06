@@ -11,11 +11,14 @@ Install:
  - 'pip install pipwin'
  - 'pipwin install pyaudio'
 
+Google Speech Recognition is already included.
+
+For PocketSphinx...
 Update Path Variable to include:
  - swig (folder in repo)
-
-Google Speech Recognition is already included.
-For PocketSphinx:
+Install:
+ - Visual Studio C++ Build tools (including Windows 10 APK)
+ 
  - 'pipwin install pocketsphinx'
 or....
  - clone repo 'git clone --recursive --depth 1 https://github.com/cmusphinx/pocketsphinx-python'
