@@ -14,7 +14,8 @@ Install:
 Update Path Variable to include:
  - swig (folder in repo)
 
-Install PocketSphinx:
+Google Speech Recognition is already included.
+For PocketSphinx:
  - 'pipwin install pocketsphinx'
 or....
  - clone repo 'git clone --recursive --depth 1 https://github.com/cmusphinx/pocketsphinx-python'
