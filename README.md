@@ -5,6 +5,7 @@ Testing testing testing! - Elim was here :)
 
 First clone the repo to a local folder
 
+For Windows...
 Install:
  - 'pip install speechrecognition'
  - 'pip install pipwin'
@@ -18,3 +19,6 @@ Install PocketSphinx:
 or....
  - clone repo 'git clone --recursive --depth 1 https://github.com/cmusphinx/pocketsphinx-python'
  - in repo folder 'python setup.py install'
+
+Detailed instructions can be found here...
+https://github.com/Uberi/speech_recognition/blob/master/reference/pocketsphinx.rst
